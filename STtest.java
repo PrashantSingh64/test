@@ -6,7 +6,7 @@ public class Calculation {
     public static void main(String[] args) {
        
         int numSubjects = 3;
-
+        String password="pra1234@";
         
 
         System.out.print("Enter student roll number: ");
